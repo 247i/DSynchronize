@@ -1,0 +1,1196 @@
+# Albert<abmabm@gmx.es> - Spanish translation. Rel. 2.48.28 - Last update: 2021-01-24
+1 SKIP
+2 OMITIDO
+1 FAIL
+2 CON ERRORES
+1 OK
+2 OK
+1 DEL DIR
+2 BORRADO DIR.
+1 MK DIR
+2 CREADO DIR.
+1 REN DIR
+2 RENOMBR.DIR.
+1 DEL FILE
+2 BORRADO ARCH.
+1 NEW FILE
+2 NUEVO ARCH.
+1 REN FILE
+2 RENOMBR.ARCH.
+1 MOD FILE
+2 MODIF.ARCH.
+1 SET ATTR
+2 ASIG.ATRIBUTO
+1 SET ACL
+2 ASIG. ACL
+1 Adding
+2 Añadir
+1 Deleting
+2 Eliminar
+1 Replacing
+2 Reemplazar
+1 Errors
+2 Errores
+1 DSynchronize - Old Ini file loaded: some features will not be available
+2 DSynchronize – Se ha cargado un archivo Ini antiguo: no estarán disponibles algunas funcionalidades
+1 Sync (stage 1/2):
+2 Sincronizando (fase 1/2):
+1 Sync (stage 2/2):
+2 Sincronizando (fase 2/2):
+1 C:\SourcePath
+2 C:\RutaOrigen
+1 F:\DestinationPath
+2 F:\RutaDestino
+1 Timings
+2 Horarios
+1 Files
+2 Archivos
+1 Deleted
+2 Eliminados
+1 Added
+2 Añadidos
+1 Replaced
+2 Reemplazados
+1 Details
+2 Detalles
+1 Clear list
+2 Limpiar la lista
+1 Paused
+2 En pausa
+1 Realtime
+2 Tiempo real
+1 Find file
+2 Buscar archivo
+1 Explore folder
+2 Explorar carpeta
+1 General
+2 General
+1 Execute at the end...
+2 Ejecutar al acabar...
+1 Execute at the end
+2 Ejecutar al acabar
+1 Skip empty folders
+2 Omitir carpetas vacías
+1 Do not sync folders if they are empty
+2 No sincronizar carpetas si estan vacías
+1 Exit/Shutdown at the end
+2 Salir/Apagar al acabar
+1 1st click: Exit at the end of sync*2nd click: Shutdown the system at the end of sync (red icon)
+2 1er. clic: Salir al acabar la sincronización*2o. clic: Apagar el sistema al acabar la sincronización (icono rojo)
+1 Exit or Shutdown PC at the end
+2 Salir o apagar el PC al acabar
+1 Write log on disk
+2 Escribir registro en el disco (log)
+1 Save log file "DSynchronize.log" on disk
+2 Guardar archivo de registro "DSynchronize.log" en el disco
+1 Show Jobs at start
+2 Mostrar trabajos al inicio
+1 Show job's window at start
+2 Muestra la ventana de trabajos al iniciar la aplicación
+1 Ignore path errors
+2 Ignorar errores de ruta
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 Si no existe una ruta (origen o destino), se salta sin ningún mensaje de error, ignora también el control de seguridad de carpetas
+1 Byte to byte sync
+2 Sincronizar octeto a octeto
+1 Compare files "byte to byte". This option is not designed for normal sync operations, you should use it only in particular situations because it will slow down very much the sync.
+2 Comparar archivos "octeto a octeto (byte)".  Esta opción no está diseñada para operaciones normales de sincronización, solo debe usarse en situaciones particulares porqué ralentiza mucho la sincronización.
+1 This option is not designed for normal sync operations, you should use it only in particular situations,
+furthermore, selecting ''Verify Byte to Byte'' will slow down very much the sync.
+
+Are you sure to want enable this option?
+2 Esta opción no está diseñada para operaciones normales de sincronización, solo debe usarse en situaciones particulares, además, la selección de "Verificar octeto a octeto" ralentizará mucho la sincronización.
+
+¿Está seguro que desea habilitar esta opción?
+1 Use fast algorithm
+2 Utilizar el algoritmo rápido
+1 Use a faster sync algorithm but that don't allows to use all options
+2 Utiliza un algoritmo de sincronización más rápido pero esto no permite usar todas las opciones
+1 Log only errors
+2 Registrar solo los errores
+1 Do not show the complete list but show only errors
+2 No mostrar la lista completa, solo mostrar los errores
+1 Save settings on exit
+2 Guardar la configuración al salir
+1 Right Click to save settings only this time*Middle-Click to save settings now
+2 Con clic derecho se guarda la configuración solo esta vez*Clic con el botón central guarda la configuración ahora
+1 Suffix destination with date
+2 Destino con fecha como sufijo
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 Añade a la carpeta de destino la fecha y hora actual ("C:\Destino" se convierte en "C:\Destino 2019-08-28 18.30")
+1 Verify copy
+2 Verificar la copia
+1 Create folder if not exists
+2 Crear carpeta si no existe
+1 If destination path does not exists it creates a new one
+2 Si la ruta de destino no existe, crear una nueva
+1 Copy only newer files
+2 Copiar solo archivos nuevos
+1 Update files into destination folder only if source files are more recent
+2 Actualiza los archivos en la carpeta de destino solo si los archivos de origen son más recientes
+1 Sync file/folder timings too
+2 Sincroniza también las fechas
+1 Sync creation and last modify time too
+2 Sincronizar también la fecha de creación y modificación
+1 Eject USB key at the end
+2 Expulsar dispositivo USB al finalizar
+1 Send log by Email...
+2 Enviar registro por correo electrónico...
+1 Move files to destination
+2 Mover archivos a destino
+1 Move files from Source to Destination (to preserve files on Destination, select "Do not delete any file" option)
+2 Mover los archivos del Origen al Destino (para conservar los archivos en Destino, seleccione la opción "No eliminar ningún archivo")
+1 Preview sync
+2 Vista previa de la sincronización
+1 Does not writes nor changes anything on disk
+2 No escribe ni cambia nada en el disco
+1 Hidden Container
+2 Contenedor oculto
+1 DSynchronize
+2 DSynchronize
+1 Timer
+2 Temporizador
+1 Timer sync
+2 Sincr.temporizada
+1 Set Timer
+2 Definir temp.
+1 Pre calculates ETA
+2 Precalcula tiempo estimado
+1 Before to start sync, compute number of files to sync to show ETA (estimated time of arrival) and progress bar
+2 Antes de sincronizar, calcula el número de archivos para mostrar el tiempo estimado (ETA-estimated time of arrival) y la barra de progreso
+1 Pre calculates size
+2 Precalcular tamaño
+1 Remote monitor
+2 Monitor remoto
+1 Remote monitor...
+2 Monitor remoto...
+1 Report status to Remote Monitor
+2 Informar estado al Monitor remoto
+1 Cyclic sync
+2 Sincronización cíclica
+1 Cyclically synch all the paths, without ever stopping
+2 Sincroniza cíclicamente todas las rutas, sin parar
+1 Start at drive plug-in
+2 Iniciar al insertar unidad
+1 Start sync when the user plugs-in selected drive
+2 Inicia la sincronización cuando el usuario conecta la unidad seleccionada
+1 Bidirectional sync
+2 Sincronización bidireccional
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 Sincroniza carpetas utilizando los archivos más recientes de ambas, obtendrá dos carpetas iguales con los archivos más recientes de ambas
+1 DSynchronize - Bidirectional Sync
+2 DSynchronize - Sincronización bidireccional
+1 If Realtime is not enabled, Bidirectional sync can't get file deletions, because DSynchronize don't knows if a single file was added on source path or was deleted from destination path (or viceversa), so it assumes that all files was added everywhere.
+
+This can give unattended results, do you want enable anyway Bidirectional Sync?
+2 Si no está habilitado Tiempo real, la sincronización bidireccional no puede detectar las eliminaciones de archivos porque DSynchronize no sabe si un archivo concreto se ha añadido en la ruta origen o se ha eliminado de la ruta destino (o viceversa), así se asume que los archivos son añadidos en cualquier sitio.
+
+Esto puede dar resultados inesperados, ¿desea habilitar la sincronización bidireccional de todos modos?
+1 Realtime sync
+2 Sincronización en tiempo real
+1 Realtime sync...
+2 Sincronización en tiempo real...
+1 Real-time synchronization
+2 Sincronización en tiempo real
+1 Timer sync...
+2 Sincronización con temporizador...
+1 Autostart
+2 Inicio automático
+1 Execute DSynchronize at system startup
+2 Ejecutar DSynchronize en el arranque del sistema
+1 Transactional sync
+2 Sincronización transaccional
+1 Transactional sync...
+2 Sincronización transaccional...
+1 Syncronize folders using Journaling feature of NTFS
+2 Sincroniza las carpetas utilizando el Registro en diario de NTFS
+1 Transactional sync with automatic activation.
+2 Sincronización transaccional con activación automática
+1 Scheduling every:
+2 Programada cada:
+1 minutes.
+2 minutos.
+1 Scheduled within:
+2 Programada dentro de:
+1 Syncronize folders using Journaling feature of NTFS.
+2 Sincroniza las carpetas utilizando el Registro en diario de NTFS.
+1 Do not delete any file
+2 No eliminar ningún archivo
+1 Does not delete any file
+2 Si está activado no se elimina ningún archivo
+1 Ask before deleting files
+2 Preguntar antes de eliminar archivos
+1 Ask before adding files
+2 Preguntar antes de añadir archivos
+1 Do not add any file
+2 No añadir ningún archivo
+1 Does not add any new file
+2 Si está activado no se añade ningún archivo nuevo
+1 Ask before replace files
+2 Preguntar antes de reemplazar archivos
+1 Do not replace any file
+2 No reemplazar ningún archivo
+1 Does not replace any file
+2 Si está activado no se reemplaza ningún archivo
+1 Reset list if too full
+2 Restablecer la lista si está demasiado llena
+1 If they are too many items (over 1000), reset list
+2 Si hay demasiados elementos (más de 1000), restablece la lista
+1 You have to start DSynchronize as Administrator to use this option.
+2 Tiene que ejecutar DSynchronize como Administrador para usar esta opción.
+1 JOBS
+2 TRABAJOS
+1 Select and manage Jobs
+2 Selección y administración de trabajos
+1 Destinations
+2 Destino
+1 <A>About</A>
+2 <A>Acerca de</A>
+1 FILTER
+2 FILTRO
+1 Set filter to include/exclude files or folders from sync
+2 Definir un filtro para incluir/excluir archivos o carpetas en la sincronización
+1 Commands
+2 Comandos
+1 AS
+2 COMO
+1 SERVICE
+2 SERVICIO
+1 RUNNING
+2 EN EJECUCIÓN
+1 Another instance
+is running as Service
+2 Otra instancia se está
+ejecutando como Servicio
+1 &Synchronize
+2 &Sincronizar
+1 &Pause
+2 &Pausar
+1 &Resume
+2 &Reanudar
+1 &Stop
+2 &Detener
+1 Debug
+2 Depurar
+1 Sources
+2 Origen
+1 Special
+2 Especial
+1 Antifragmentation
+2 Antifragmentación
+1 Do not replaces files, they first will be deleted from destination and then added again to it
+2 No reemplaza los archivos, primero los elimina del destino y luego los añade de nuevo
+1 Case Sensitive
+2 Distinguir mayúsc/minúsc
+1 Enable case sensitive sync, so eg "File.txt" and "file.txt" are registred as differents
+2 Habilita la sincronización distinguiendo mayúsculas de minúsculas, así “Archivo.txt” y “archivo.txt” se considerarán diferentes
+1 Copy ACL
+2 Copiar ACL
+1 Copy ACL (Access Control List) on NTFS
+2 Copia la lista de control de acceso (ACL-Acces Control List) en particiones NTFS
+1 Copy hard links
+2 Copiar vínculos físicos
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 Si es posible también tratar de crear vínculos físicos (todos los vínculos físicos de un archivo deben estar en la misma partición)
+1 Verify symbolic links
+2 Verificar vínculos simbólicos
+1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
+2 Verifica la validez de los vínculos simbólicos antes de copiar, si no es válido en la ruta de destino (por ej. vínculos relativos), copia el archivo de destino.
+1 Copy symbolic links
+2 Copiar vínculos simbólicos
+1 Copy symbolic links as is
+2 Copia los vínculos simbólicos tal cual
+1 Check free space
+2 Verificar espacio libre
+1 Check free space before start file copy
+2 Verifica el espacio libre antes de iniciar la copia de archivos
+1 Use Recycle Bin
+2 Utilizar la papelera
+1 Use Recycle Bin...
+2 Utilizar la papelera...
+1 Move deleted files to Recycle Bin
+2 Mueve los archivos eliminados a la Papelera de reciclaje
+1 Move deleted files to
+2 Mueve los archivos eliminados a
+1 Adjust path drive
+2 Ajustar ruta unidad
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 Si la letra de unidad cambia, ajusta las rutas en consecuencia (por favor, seleccione "Guardar al salir" para permitir guardar los números de serie de los volúmenes)
+1 Freeze
+2 Congela
+1 Lock all settings to prevent unwanted changes
+2 Bloquea toda la configuración para evitar cambios no deseados
+1 Email Log
+2 Enviar registro por correo-e.
+1 Preview
+2 Vista previa
+1 &File
+2 &Archivo
+1 Load settings...
+2 Cargar la configuración...
+1 Save settings as...
+2 Gardar la configuración como...
+1 Save Settings Now
+2 Guardar la configuración ahora
+1 Exit without Save Settings	ALT+F5
+2 Salir sin guardar la configuración	Alt+F5
+1 &Exit	ALT+F4
+2 &Salir	Alt+F4
+1 &Options
+2 &Opciones
+1 Test paths before synchronize
+2 Probar las rutas antes de sincronizar
+1 Revert all options to default
+2 Revertir todas las opciones al valor predeterminado
+1 Remember window size
+2 Recordar tamaño de la ventana
+1 Show summary after sync
+2 Mostrar resumen después de sincronizar
+1 Close button minimizes window
+2 El botón de Cerrar minimizará la ventana
+1 Hidden mode
+2 Modo oculto
+1 Allow multiple instances
+2 Permitir múltiples instancias
+1 Maintain old versions
+2 Mantener versiones anteriores
+1 No old versions
+2 Sin versiones anteriores
+1 1 old version
+2 1 versión anterior
+1 2 old versions
+2 2 versiones anteriores
+1 3 old versions
+2 3 versiones anteriores
+1 4 old versions
+2 4 versiones anteriores
+1 5 old versions
+2 5 versiones anteriores
+1 10 old versions
+2 10 versiones anteriores
+1 Infinite old versions
+2 Versiones anteriores infinitas
+1 Hidden and system files too
+2 También ficheros del sistema y ocultos
+1 Make deletions unrecoverable (slow)
+2 Hacer que las eliminaciones sean irrecuperables (lento)
+1 Sound advise at the end
+2 Sonido al acabar
+1 Sound effects
+2 Efectos de sonido
+1 &Tools
+2 &Herramientas
+1 Test all selected paths
+2 Comprobar todas las rutas seleccionadas
+1 Change Removable Drive Letters...
+2 Cambiar las letras de las unidades extraibles...
+1 Set realtime deferred sync log path...
+2 Definir la ruta del registro de la sincronización en tiempo real diferida...
+1 Find deferred sync file...
+2 Buscar archivo de la sincronización diferida...
+1 Execute realtime deferred sync
+2 Ejecuta la sincronización en tiempo real diferida
+1 Delete all Empty folders...
+2 Eliminar todas las carpetas vacías...
+1 Use multiple log files
+2 Utilizar varios archivos de registro
+1 Show log file
+2 Mostrar archivo de registro
+1 Erase log file
+2 Borrar fichero de registro
+1 Are you sure you want to delete the log file?
+2 ¿Está seguro que desea eliminar el archivo de registro?
+1 Find ini file
+2 Buscar archivo Ini
+1 &Abstract of last sync
+2 &Resumen de la última sincronización
+1 &Help
+2 A&yuda
+1 Home Page &Web
+2 Sitio &web
+1 Check for New Version
+2 Comprobar si hay nueva versión
+1 Contact the programmer
+2 Contactar con el programador
+1 Contact the translator
+2 Contactar con el traductor
+1 Support with Donation...
+2 Apoyar con una donación...
+1 &About DSynchronize
+2 Acerca &de DSynchronize
+1 &Show
+2 &Mostrar
+1 &About
+2 Acerca &de...
+1 &Close
+2 &Cerrar
+1 B&rowse...
+2 E&xplorar...
+1 &Add New...
+2 &Añadir nuevo...
+1 Duplicate
+2 Duplicar
+1 &Edit...	F2
+2 Editar...	F2
+1 Explore Path...
+2 Explorar ruta...
+1 Test this Pat&h
+2 Comprobar esta &ruta
+1 Se&t Filter...
+2 Definir &filtro...
+1 S&wap
+2 Intercambiar
+1 Move Up
+2 Subir	RePág
+1 Move Down
+2 Bajar	AvPág
+1 &Select all
+2 &Seleccionar todo
+1 &Deselect all
+2 &Deseleccionar todo
+1 Re&move
+2 &Eliminar
+1 Remove All
+2 Eliminar todo
+1 Are you sure you want to remove all items?
+2 Está seguro que desea elliminar todos los elementos?
+1 Empty Recycle Bin
+2 Vaciar Papelera de reciclaje
+1 Re&move	Del
+2 Eliminar	Supr
+1 &Properties
+2 Propiedades
+1 Move Down	PagDn
+2 Bajar	AvPág
+1 RealTime | Transactional
+2 Tiempo real | Transaccional
+1 "Right Click" to browse paths and set filters
+"Enter" to modify path
+"DEL" to delete item
+"PagUp" and "PagDn" to move item up or down
+"Right" and "Left" to switch sources-destinations
+2 "Clic derecho" para explorar las rutas y configurar filtros
+"Intro" para modificar la ruta
+"Supr" para eliminar el elemento
+"RePág" o "AvPág" para mover el elemento arriba o abajo
+"Izquierda" y "Derecha" para intercambiar origen-destino
+1 Stop after selected number of consecutive errors...
+2 Detener después del número de errores consecutivos seleccionados...
+1 To enable/disable auto-start you have to be Administrator, do you want try to log as another user?
+2 Para habilitar/inhabilitar el inicio automático tiene que ser Administrador, ¿quiere iniciar sesión como otro usuario?
+1 Login as Administrator
+2 Iniciar sesión como Administrador
+1 DSynchronize hasn't write-rights for its own folder, so it can't save settings
+2 DSynchronize no tiene permisos de escritura para su propia carpeta, por lo que no puede guardar la configuración
+1 Sync Paused
+2 Sincr.en pausa
+1 Login error in source FTP path
+2 Error de inicio de sesión en la ruta FTP de origen
+1 Access rights error in source path (you can try to select 'Ignore path errors')
+2 Error de permisos de acceso a la ruta de origen (intente seleccionar ‘Ignorar errores de ruta’)
+1 Access rights error in destination path (you can try to select 'Ignore path errors' or deselect 'Copy ACL')
+2 Error de permisos de acceso a la ruta de destino (intente seleccionar ‘Ignorar errores de ruta’ o deseleccionar 'Copiar ACL')
+# Now strings grouped by access point ------------------------------------
+# File Menu  -------------------------------------------------------------
+1 Open Ini file...
+2 Abrir archivo Ini...
+1 Save Ini file...
+2 Guardar archivo Ini...
+1 Ini File (*.ini)
+2 Archivo Ini (*.ini)
+1 The Ini file actually don't exists, but this is his future path:
+2 El archivo Ini en realidad no existe, pero esta es su futura ruta:
+1 The Ini file actually don't exists.
+2 El archivo Ini en realidad no existe.
+1 This Ini file is an old unsupported version.
+2 Este archivo Ini es de una versión antigua no soportada.
+# Options Menu -----------------------------------------------------------
+1 Are you sure do you want to revert all options to their factory default?
+2 ¿Está seguro que desea revertir las opciones a la configuración predeterminada de fábrica?
+1 Select the number of consecutive errors after which to stop the sync:
+2 Seleccionar el número de errores consecutivos permitidos antes de parar la sincronización:
+# Tools Menu ------------------------------------------------------------
+1 Source paths verify
+2 Verificación rutas de origen
+1 No selected paths to test
+2 No se han seleccionado rutas para probar
+1 Source paths verify:
+2 Verificación rutas de origen:
+1 Destination paths verify:
+2 Verificación rutas de destino:
+1 Source path verify:
+2 Verificación ruta de origen:
+1 Destination path verify:
+2 Verificación ruta de destino:
+1 Source path error:
+2 Error en ruta de origen:
+1 Destination paths verify
+2 Verificación rutas de destino
+1 Destination path error:
+2 Error en ruta de destino:
+1 DSynchronize - Change Removable Drive Letter
+2 DSynchronize - Cambiar la letra de la unidad extraible
+1 Change Letter
+2 Cambiar la letra
+1 Drive letter is same.
+2 La letra de la unidad es la misma.
+1 Select RealTime deferred File...
+2 Seleccionar el archivo de la sincronización en tiempo real diferida...
+1 Deferred sync
+2 Sincronización diferida (.def)
+1 Deferred sync changes file not exists.
+2 No existe el archivo de cambios de la sincronización diferida.
+1 RealTime sync deferred executed: No file system changes to sync.
+2 Realizada la sincr.en tiempo real diferida: Sin modificación en archivos de sistema.
+1 RealTime Deferred Sync Data Block Saved... FAIL
+2 Sincr.en tiempo real diferida, bloque de datos guardado... CON ERRORES
+1 RealTime Deferred Sync Data Block Saved... OK
+2 Sincr.en tiempo real diferida, bloque de datos guardado... CORRECTO
+# ----------------------------------------------------------------------------
+1 RealTime sync deferred active...
+2 Sincronización en tiempo real diferida activa...
+1 RealTime sync deferred execution error.
+2 Error de ejecución de la sincr.en tiempo real diferida.
+1 RealTime sync deferred execution successfull.
+2 Ejecución correcta de la sincr.en tiempo real diferida.
+1 Real-Time deferred sync with automatic activation.
+2 Sincr.en tiempo real diferida con activación automática.
+1 Real-Time deferred sync with manual activation.
+2 Sincr.en tiempo real diferida con activación manual.
+1 Select the root from which remove empty folders:
+2 Seleccionar la raíz desde la que empezar a eliminar carpetas vacías:
+1 Log file don't exists.
+2 El archivo de registro no existe.
+1 Log file has been deleted.
+2 El archivo de registro se ha eliminado.
+# Empty folders ---------------------
+1 All empty subfolders will be removed from this path:
+2 Se eliminarán todas las subcarpetas vacías de esta ruta:
+1 Do you want to continue?
+2 ¿Desea continuar?
+1 Empty folders removed
+2 Carpetas vacías eliminadas
+1 Empty folders not removed (errors)
+2 Carpetas vacías no eliminadas (errores)
+# Help Menu ----------------------------------------------------------------
+1 A new version is available for Download, do you want go to download page?
+2 Existe una versión disponible para descargar, ¿desea ir a la página de descargas?
+1 The current version is up to date
+2 La versión está actualizada
+1 Unable to get version information, check Internet connection or Firevall/Proxy settings.
+2 No se puede obtener información de versiones, compruebe la conexión a Internet o la configuración del Firewall o del Proxy
+# Help window --------------------------------------------------------------
+1 DSynchronize - Help
+2 DSynchronize - Ayuda
+1 Help
+2 Ayuda
+1 About
+2 Acerca de...
+1 [HOT KEYS]
+F1 = Open this window.
+F2 / Enter = Modify Paths.
+Del = Delete Paths couple.
+PagUp / PagDn = Move item up or down.
+Right Click = Test Path, Set Filters, Browse Paths.
+Alt+F4 = Exit program.
+Alt+F5 = Exit program without save settings.
+Right / Left = Switch between Sources and Destinations.
+Up / Down = Select previous / next item.
+Further Down = Add new couple of paths (Source and Destination).
+
+[COMMAND LINE]
+/START = Start synch with last saved options.
+/RETARD = Start synch with last saved options after 60 seconds.
+/STARTJOB "JobName" = Start synch with selected Job options.
+/MINIMIZE = Starts minimized in the Tray Bar.
+/HIDDEN = Do not display icon in Tray Bar.
+/NOSECURITYCHECK  = Don't makes security check before sync.
+/NOMONITORCHECK = Do not check monitor resolution.
+/AUTOREALTIME = Starts minimized, do a standard sync and activate RealTime.
+/SOMEFILE.INI = Starts using selected INI file.
+2    [TECLAS DE ACCESO RÁPIDO]
+F1 = Abre esta ventana.
+F2 / Intro = Modifica las rutas.
+Supr = Elimina la pareja de rutas.
+RePág / AvPág = Mueve el elemento arriba o abajo.
+Clic derecho = Comprueba ruta, configura filtros, explora rutas.
+Alt+F4 = Sale del programa.
+Alt+F5 = Sale del programa sin guardar la configuración.
+Derecha / Izquierda = Alterna entre orígenes y destinos.
+Flechas arriba / abajo = Selecciona elemento previo / posterior.
+Más abajo = Añade una nueva pareja de rutas (origen y destino).
+    [LÍNEA DE COMANDOS]
+/START = Inicia la sincronización (con las últimas opciones guardadas).
+/RETARD = Igual que /START pero espera 60 segundos.
+/STARTJOB "Trabajo" = Inicia la sincronización con las opciones del "Trabajo".
+/MINIMIZE = Se inicia minimizado en la Barra de tareas.
+/HIDDEN = No muestra el icono en la Barra de tareas.
+/NOSECURITYCHECK = No efectúa control de seguridad antes de sincronizar.
+/NOMONITORCHECK = No verifica la resolución del monitor.
+/AUTOREALTIME = Minimizado, efectúa una sincr. estándar y activa el tiempo real.
+/SOMEFILE.INI = Se inicia utilizando el archivo INI seleccionado.
+# Donate window ------------------------------------------------------------
+1 Support with a Donation
+2 Apoyar con una donación
+1 Cancel
+2 Cancelar
+1 Thanks for your generosity!
+2 ¡Gracias por su generosidad!
+1 This software is and will always remain free. If you are satisfied and want to help me improve it or motivate the development of other features, any donation amount, however small, will be welcome and gratefully appreciated.
+I'll work hard to repay your support.
+2 Este software es y permanecerá siempre libre. Si está satisfecho y quiere ayudarme a mejorar o motivar el desarrollo de otras características, cualquier donación, por pequeña que sea, será bienvenida y muy apreciada.
+Trabajaré duramente para compensarle.
+# Next  string translation doesn't work, is an image <<<<
+1 DONATE
+2 DONACIÓN
+# About window --------------------------------------------------------------
+1 DSynchronize - About
+2 DSynchronize - Acerca de...
+1 E-mail:
+2 Correo-e:
+1 Web:
+2 Web:
+1 Make a Donation
+2 Hacer una donación
+1 Version
+2 Versión
+# Jobs window --------------------------------------------------------------
+1 DSYNCHRONIZE - JOBS LIST
+2 DSYNCHRONIZE - LISTA DE TRABAJOS
+1 Load Job
+2 Cargar trabajo
+1 New Job
+2 Nuevo trabajo
+1 Delete Job
+2 Eliminar trabajo
+1 Instant Update
+2 Actualizar ya
+1 Show me again
+2 Mostrar de nuevo
+1 When you select a Job, loads his options immediately
+2 Al seleccionar un trabajo, se cargan sus opciones immediatamente
+1 Rename	F2
+2 Renombrar	F2
+1 Move Up	PgUp
+2 Subir	RePág
+1 Move Down	PgDn
+2 Bajar	AvPág
+1 Duplicate Job
+2 Duplicar trabajo
+1 Delete Job	Canc
+2 Eliminar trabajo	Supr
+1 Are you sure to want delete this Job?
+2 ¿Está seguro que desea eliminar este trabajo?
+1 Move up and down selected Job
+2 Subir o bajar el trabajo seleccionado
+1 'F2' to rename Jobs
+'Del' to delete a job
+'Del+Shift' to delete a job without confirms
+'PagUp' to move Up an Item
+'PagDn' to move Down an Item
+2 'F2' para renombrar trabajos
+'Supr' para eliminar un trabajo
+'Mayús. + Supr' para eliminar un trabajo sin pedir confirmación
+'RePág' para subir un elemento
+'AvPág' para bajar un elemento
+1 Ini File
+2 Archivo Ini
+# Filter window -----------------------------------------------------------
+1 DSynchronize - Filter
+2 DSynchronize - Filtro
+1 File Selection
+2 Selección de archivos
+1 Inclusion Filter:
+2 Filtro de inclusión:
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 Para utilizar filtros múltiples se deben separar con ";", por ejemplo: *.exe;*.txt;settings.ini;*.da?
+1 Exclusion Filter:
+2 Filtro de exclusión:
+1 Filter Options
+2 Opciones del filtro
+1 Do not include subfolders on synchronization
+2 No incluir subcarpetas en la sincronización
+1 Apply filters to folders
+2 Aplicar filtros a las carpetas
+1 Apply filters to files
+2 Aplicar filtros a los archivos
+1 Filter Timings
+2 Filtrar por fecha
+1 Exclude files modified before:
+2 Excluir archivos modificados antes de:
+1 Exclude files modified after:
+2 Excluir archivos modificados después de:
+1 Exclude files modified within:
+2 Excluir archivos modificados los últimos:
+1 Days
+2 días
+1 Time-tolerance between two files
+2 Tolerancia horaria entre dos archivos
+1 Seconds
+2 segundos
+1 Difference of GMT between source and destination
+2 Diferencia de horario GMT entre origen y destino
+1 Folder Selection
+2 Selección de carpetas
+1 SELECTED PATH NOT EXISTS...
+2 LA RUTA SELECCIONADA NO EXISTE...
+1 Do not sync added later folders (can slow down the sync)
+2 No sincronizar las carpetas añadidas posteriormente (puede ralentizar la sincronización)
+1 Reset Defaults
+2 Restablecer predeterminados
+1 Select All
+2 Seleccionar todo
+# General bloc -------------------------------------------------------------
+1 Select file or program to open at the end of sync... 
+2 Seleccionar archivo o programa a abrir al acabar la sincronización...
+1 Reporting activity OK
+2 Informe actividad CORRECTO
+1 Reporting activity FAIL
+2 Informe actividad CON ERRORES
+# Log email window --------------------------------------------------------
+1 DSynchronize - Log by Email
+2 DSynchronize – Registro por correo electrónico
+1 Log Email Settings
+2 Configuración del correo electrónico de registro
+1 Send To:
+2 Enviar a:
+1 Send To
+2 Enviar a
+1 Email of destination, you can insert more email separated with semicolons
+2 Correo electrónico de destino, pueden informarse varias direcciones separadas por punto y coma
+1 Email Sender:
+2 Remitente:
+1 Email Sender (only if is different from "Send To")
+2 Remitente del correo (solo si es distinto del informado en "Enviar a")
+1 Sender Passwd:
+2 Passw.remitente:
+1 Email Sender Password
+2 Contraseña de correo del remitente
+1 Show Passwd
+2 Mostrar contraseña
+1 SMTP Server:
+2 Servidor SMTP:
+1 SMTP Port:
+2 Puerto SMTP:
+1 Use SSL encryption
+2 Utilizar encriptación SSL
+1 Send a screenshot in attachment
+2 Enviar captura de pantalla como adjunto
+1 Send Test Email
+2 Enviar un correo electrónico de comprobación
+1 DSynchronize Email Log Test
+2 DSynchronize correo de registro de pruebas
+1 Email sent from DSynchronize for testing purposes.
+2 Correo enviado por DSynchronize a modo de comprobación.
+1 Sent from PC:
+2 Enviado desde el PC:
+1 Email Test Successfull.
+2 Prueba de correo correcta.
+1 Sending test Email... DONE
+2 Enviado correo de prueba... HECHO
+1 Sending test Email... FAIL
+2 Enviado correo de prueba... ERROR
+1 DSynchronize Log Report
+2 DSynchronize-Informe de registro
+1 DSynchronize - Email
+2 DSynchronize - Correo electrónico
+1 Email Sender: Email address is not valid
+2 Remitente: La dirección de correo no es válida
+1 Send To: Email address is not valid
+2 Enviar a: La dirección de correo no es válida
+# Recycle Bin window -------------------------------------------------------
+1 DSynchronize - Recycle Bin
+2 DSynchronize - Papelera de reciclaje
+1 Select Recycle Bin
+2 Seleccionar papelera de reciclaje
+1 Use Windows recycle bin
+2 Utilizar la papelera de reciclaje de Windows
+1 Use a custom folder as recycle bin...
+2 Utilizar una carpeta de usuario como papelera...
+1 Selected path not exists, reverting to Windows Recycle Bin.
+2 La ruta seleccionada no existe, volviendo a papelera de Windows.
+1 Select a folder...
+2 Seleccionar una carpeta...
+# Realtime window ----------------------------------------------------------
+1 DSynchronize - Realtime
+2 DSynchronize - Tiempo real
+1 REALTIME
+2 TIEMPO REAL
+1 Options
+2 Opciones
+1 Real-time syncronization
+2 Sincronización en tiempo real
+1 Real-time sync
+2 Sincronización en tiempo real
+1 Real-Time sync.
+2 Sincronización en tiempo real.
+1 Deferred real-time sync (manual)
+2 Sincronización en tiempo real diferida (manual)
+1 Deferred real-time sync (scheduled)
+2 Sincronización en tiempo real diferida (programada)
+1 Execute sync every:
+2 Sincronizar cada:
+1 Clear previous deferred list of changes
+2 Borrar la lista de cambios diferida previa
+1 void
+2 vacío
+1 Defer synchronization if changes occur within:
+2 Difiere la sincronización si hay cambios en:
+1 minutes
+2 minutos
+1 Perform a standard sync before starting real-time sync
+2 Realizar una sincronización estándar antes de comenzar una sincronización en tiempo real
+1 Standard sync before starting Real-Time
+2 Sincronización estándar antes de iniciar Tiempo real
+1 Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 ¿Desea que se efectúe una sincronización estándar antes de habilitar la sincronización en tiempo real?
+1 Prevent bidirectional loop (if path is on a server version of Windows) 
+2 Evita el problema de bucle bidireccional (si la ruta está en Windows Server)
+1 Prevent the Windows Server loop problem if the bidirectional option is enabled
+2 Evita el problema de bucle de Windows Server si está habilitada la opción bidireccional
+1 In some Windows Server versions, bidirectional sync can loop, this option fixes the problem
+2 En algunas versiones de Windows Server, la sincronización bidireccional puede entrar en bucle, esta opción corrige el problema
+1 Monitoring
+2 Supervisión
+1 Monitor Subfolders
+2 Supervisar subcarpetas
+1 Monitor Change Attributes
+2 Supervisar cambio de atributos
+1 Monitor Change ACL
+2 Supervisar cambio lista de control de acceso (ACL-Access Control List)
+1 Error, Source and Destination is same: 
+2 Error, origen y destino son iguales: 
+1 Error: destination path not exists
+2 Error: No existe la ruta de destino
+1 Error: destination path not exists, retry?
+2 Error: No existe la ruta de destino, ¿reintentar?
+1 Error: source path not exists
+2 Error: No existe la ruta de origen
+1 Error: source path not exists, retry?
+2 Error: No existe la ruta de origen, ¿reintentar?
+# Transactional window -----------------------------------------------------
+1 DSynchronize - Transactional
+2 DSynchronize - Transaccional
+1 TRANSACTIONAL
+2 TRANSACCIONAL
+1 Manual mode
+2 Modo manual
+1 Start Time:
+2 Hora inicio:
+1 End Time:
+2 Hora fin:
+1 Yesterday
+2 Ayer
+1 Now
+2 Ahora
+1 Automatic mode
+2 Modo automático
+1 Sync every:
+2 Sincroniza cada:
+1 Start sync from:
+2 Inicia desde:
+1 hours ago
+2 horas antes
+1 Transactional Sync does not work very well with short timings, because the cache is not downloaded to disk in time.
+2 La sincronización transaccional no funciona muy bien con tiempos cortos, porque la caché no se descarga en el disco a tiempo.
+1 You should use at least 10 minutes.
+2 Debe usar al menos 10 minutos.
+1 Use advanced transactional algorythm
+2 Utilizar un algoritmo transaccional avanzado
+1 Advanced Transactional algorythm
+2 Algoritmo transaccional avanzado
+1 They are two algorythms that you can use, at this time both are experimental
+2 Hay dos algoritmos que puede utilizar, ambos experimentales en estos momentos
+1 Transactional Sync: not found anything recorded on Journal of selected Paths.
+2 Sincronización transaccional: No se ha encontrado ningún registro en el Diario de las rutas seleccionadas.
+1 Transactional Sync requires that source path is on Local Drive:
+2 La sincronización transaccional requiere que la ruta origen esté en una unidad local:
+1 Transactional Sync Bidirectional requires that even destination path is on Local Drive:
+2 La sincronización transaccional requiere que tanto la ruta origen como la destino esten en una unidad local:
+1 Are you sure to want delete this sync path?
+2 ¿Está seguro que desea eliminar esta ruta de sincronización?
+1 Access rights error in destination path (you can try to select 'Ignore path errors')
+2 Error de permisos de acceso a la ruta de destino (intente seleccionar ‘Ignorar errores de ruta’)
+1 Source path is invalid:
+2 La ruta de origen no es válida:
+1 Destination path is invalid:
+2 La ruta de destino no es válida:
+1 Source path file system not supports Journaling.
+2 El sistema de archivos de la ruta de origen no soporta Registro en diario (Journaling)
+1 Source path file system supports Journaling but it's not enabled, do you want to enable Journaling?
+2 El sistema de archivos de la ruta de origen soporta el Registro en diario (Journaling) pero no está habilitado, ¿desea habilitarlo?
+1 Destination path file system not supports Journaling.
+2 El sistema de archivos de la ruta de destino no soporta Registro en diario (Journaling)
+1 Destination path file system supports Journaling but it's not enabled, do you want to enable Journaling?
+2 El sistema de archivos de la ruta de destino soporta el Registro en diario (Journaling) pero no está habilitado, ¿desea habilitarlo?
+# Scheduler window ---------------------------------------------------------
+1 DSynchronize - Scheduler
+2 DSynchronize – Planificador
+1 Main Selection
+2 Selección principal
+1 RealTime Sync Enabled
+2 Habilitada la sincronización en tiempo real
+1 Timer Sync Enabled
+2 Habilitada la sincronización con temporizador
+1 Do a first sync immediatly (10 secs after start).
+2 Primera sincronización inmediata (10 seg. después de iniciar).
+1 LocalSystem
+2 Sistema Local
+1 Day Selection
+2 Selección del día
+1 Start as Service
+2 Iniciar como servicio
+1 Install Service
+2 Instalar servicio
+1 Uninstall Service
+2 Desinstalar servicio
+1 Start Service
+2 Iniciar servicio
+1 Stop Service
+2 Detener servicio
+1 Done
+2 Hecho
+1 Account:
+2 Cuenta:
+1 Password:
+2 Contraseña:
+1 System Account
+2 Cuenta del sistema
+1 Days selection
+2 Selección de días
+1 Synchronize every day
+2 Sincronizar todos los días
+1 Specify the month's days on which to synchronize
+2 Especifique los días del mes en los que sincronizar
+1 Specify the week's days on which to synchronize
+2 Especifique los días de la semana en los que sincronizar
+1 Sunday
+2 Domingo
+1 Monday
+2 Lunes
+1 Tuesday
+2 Martes
+1 Wednesday
+2 Miércoles
+1 Thursday
+2 Jueves
+1 Friday
+2 Viernes
+1 Saturday
+2 Sábado
+1 Synchronize every
+2 Sincronizar cada
+1 Synchronize at
+2 Sincronizar a las
+1 Hours
+2 Horas
+1 Minutes
+2 Minutos
+1 Server
+2 Servidor
+1 Enable this instance to run as server
+2 Habilitar esta instancia para que se ejecute como servidor
+# Synchronizing strings 
+1 RealTime sync active...
+2 Sincronización en tiempo real activa...
+1 RealTime sync active, Timer sync active...
+2 Sincronización en tiempo real activa, sincronización temporizada activa...
+1 next sync at:
+2 próxima sincronización a las:
+1 Timer sync active...next sync at:
+2 Sincronización temporizada activa... próxima sincronización a las:
+1 Timer sync active...
+2 Sincronización temporizada activa...
+1 min to next sync
+2 minutos hasta la próxima sincronización
+1 hour to next sync
+2 horas hasta la próxima sincronización
+1 Sync progress
+2 Progreso de sincronización
+1 Sync complete.
+2 Sincronización completa.
+1 Sync complete
+2 Sincr.completa
+1 Confirm Delete:
+2 Confirmar eliminación:
+1 Confirm Add:
+2 Confirmar adición:
+1 Confirm Replace:
+2 Confirmar reemplazo:
+1 ETA:
+2 Estimado:
+1 Elapsed:
+2 Tiempo:
+1 Add/Err:
+2 Añad/Err:
+1 Repl/Err:
+2 Reemp/Err:
+1 Del/Err:
+2 Elim/Err:
+1 Erasing files in <Destination>.
+2 Borrando archivos en <destino>.
+1 Adding/replacing files in <Destination>.
+2 Añadiendo/reemplazando archivos en <destino>.
+1 Synch Stopped
+2 Sincronización detenida
+1 Synchronization (as service) started at  
+2 Sincronización (como servicio) iniciada a las 
+1 Synchronization OK: 
+2 Sincronización correcta:
+1 Synchronization interrupted.
+2 Sincronización interrumpida.
+1 Synchronization paused.
+2 Sincronización pausada.
+1 Synchronization resumed.
+2 Sincronización reanudada.
+1 Synchronization started at  
+2 Sincronización iniciada a las 
+1 Closing in 5 sec...
+2 Cerrando en 5 seg...
+1 Online
+2 Conectado
+1 If they are too many items, reset list
+2 Si hay demasiados elementos, restablece la lista
+# Strings no tested, I can't reproduce in lang file <<<<
+1 Auto start synchronization at drive plug-in is Running...
+2 Sincronización automática al conectar unidad en marcha...
+1 Bidirectional synchronization in progress...
+2 Sincronización bidireccional en curso...
+1 Closing connection...
+2 Cerrando la conexión...
+1 Connected
+2 Conectado
+1 Connected state moved between secure and nonsecure site.
+2 El estado conectado ha cambiado entre sitio seguro y no seguro.
+1 Connected to server...
+2 Conectado al servidor...
+1 Connecting
+2 Conectando
+1 Connecting to server...
+2 Conectando al servidor...
+1 Connecting: 
+2 Conectando: 
+1 Connection closed.
+2 Conexión cerrada.
+1 Connection refused.
+2 Conexión rechazada.
+1 Connection reset by peer.
+2 Restablecimiento de la conexión por el otro par.
+1 Connection timed out.
+2 Conexión expirada.
+1 Connection: Keep-Alive
+2 Conexión: Mantener conexión
+1 Do you want to overwrite this file?
+2 ¿Desea sobrescribir este archivo?
+1 Eject USB key at the end
+2 Expulsar la memoria USB al acabar
+1 Eject/Err:
+2 Expuls./Err:
+1 Ejected Drives: 
+2 Unidades expulsadas: 
+1 Copy algorythm
+2 Algoritmo de copia
+1 S = Standard algorythm*F = Fast algorythm
+2 S = Algoritmo estandard*F = Algoritmo rápido
+# Report strings -----------------------------------------------------------
+1 Active Job
+2 Trabajo activo
+1 Synchronization OK
+2 Sincronización correcta
+1 End Synch at
+2 Sincronización finalizada a las
+1 Acquired information completed, elapsed
+2 Completada la adquisión de información, tiempo transcurrido
+1 Acquired information completed
+2 Completada la adquisión de información
+1 Acquired information complete.
+2 Completada la adquisión de información.
+1 elapsed
+2 tiempo transcurrido
+1 Path not found
+2 Ruta no encontrada
+1 [GENERAL]
+2 [GENERAL]
+1 [DETAILS]
+2 [DETALLES]
+1 ADDING
+2 AÑADIR
+1 DELETING
+2 ELIMINAR
+1 REPLACING
+2 REEMPLAZAR
+1 Email Log Sent... OK
+2 Correo con registro enviado ... CORRECTO
+1 Email Log Sent... FAIL
+2 Correo no enviado... CON ERRORES
+1 File or Folder Path error synchronizing
+2 Error sincronizando la ruta del archivo o del directorio
+1 FAIL - Copy aborted by user
+2 ERROR - Copia interrumpida por el usuario
+1 FAIL - Destination Root not exists
+2 ERROR - La raíz de destino no existe
+1 FAIL - Disk space error
+2 ERROR - Espacio en el disco erróneo
+1 FAIL - FS not supports file over 4 GB
+2 ERROR - El sistema de archivos no soporta archivos más grande de 4 GB
+1 FAIL - Source file not exists
+2 ERROR - El archivo de origen no existe
+1 FAIL - Unable to create destination path
+2 ERROR - No se puede crear la ruta de destino
+1 FAIL - Verify - Aborted by user
+2 ERROR - Verificación - Interrumpida por el usuario
+1 FAIL - Verify - destination file not exists
+2 ERROR - Verificación - El archivo de destino no existe
+1 FAIL - Verify error - File size are different
+2 ERROR - Verificación - El tamaño del archivo es diferente
+# Remote controller window ------------------------------------------------
+1 DSynchronize - Report Status
+2 DSynchronize - Informar estado
+1 REPORT STATUS TO MONITOR
+2 Informar estado al Monitor
+1 Remote address
+2 Dirección remota
+1 Set local IP
+2 Establecer IP local
+1 Port
+2 Puerto
+1 Test Connection
+2 Probar conexión
+1 Test Connection...
+2 Prueba de conexión...
+1 Test Connection... FAIL
+2 Prueba de conexión... CON ERRORES
+1 Test Connection... SUCCESS
+2 Prueba de conexión... CORRECTA
+1 Ping... DONE
+2 Ping... HECHO
+1 Ping... FAIL
+2 Ping... CON ERRORES
+1 Wrong Parameters, check IP or port number
+2 Parámetros incorrectos, comprobar IP o número de puerto
+# Controller messages ---------------------------------------------------
+1 'Start Sync' request received from Remote Controller
+2 Se ha recibido una petición de 'Iniciar sincronización' desde el Controlador remoto
+1 'Stop Sync' request received from Remote Controller
+2 Se ha recibido una petición de 'Detener sincronización' desde el Controlador remoto
+1 'Restart & Sync' request received from Remote Controller
+2 Se ha recibido una petición de 'Reiniciar y sincronizar' desde el Controlador remoto
+1 'Restart' request received from Remote Controller
+2 Se ha recibido una petición de 'Reiniciar' desde el Controlador remoto
+1 'Close' request received from Remote Controller
+2 Se ha recibido una petición de 'Cerrar' desde el Controlador remoto
+# Shutdown window ---------------------------------------------------------
+1 DSynchronize - Shutdown
+2 DSynchronize - Apagar
+1 Abort
+2 Anular
+1 System Shutdown in nn sec
+2 Apagar sistema en nn segundos
+1 OFF
+2 APAGAR
+1 Instant Power Off
+2 Apagar ahora
+1 System Shutdown in 
+2 Apagar el sistema en 
+1 sec
+2 segundos
