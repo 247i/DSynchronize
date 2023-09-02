@@ -1,4 +1,4 @@
-DSynchronize Coded By Dimitrios Coutsoumbas (Dimio)
+# டிஒத்திசை Coded By Dimitrios Coutsoumbas (Dimio)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The current version is found to the following Link: 
@@ -10,7 +10,7 @@ Home: "http://dimio.altervista.org/"
 DESCRIPTION:
 ~~~~~~~~~~~~
 
-DSynchronize is a program (Freeware) that syncronizes two or more directories on a local area network. 
+டிஒத்திசை is a program (Freeware) that syncronizes two or more directories on a local area network. 
 The program compares every directory "Source" with the respective "Destination", then changes the "Destination" (adding, replacing, or deleting files and subdirectory) in such way to make those files or subdirectories identical to the "Source."  It supports multiple filters (separated by "; ") type *.exe; *.txt etc. 
 You can configure synchronizations to use Varying environments (% WINDIR%,% USERPROFILE% etc.). 
 The use is rather intuitive. 
@@ -56,7 +56,7 @@ This option add the date to files on the destination.  For example, if the sourc
 Replaces files in "Destination" only if the file in "Origin" is more recent. 
 
 "Set Idle priority" 
-Set the process priority to the minimum possible on the system.  This is unnecessary as DSynchronize already uses very few resources.  Using this option will cause synchronization to be slower.
+Set the process priority to the minimum possible on the system.  This is unnecessary as டிஒத்திசை already uses very few resources.  Using this option will cause synchronization to be slower.
 
 "Bidirectional syncronization" 
 This allows the most recent files in both locations to be copied to the other.  Each file is checked in the source and the destination folders and the most recent file is copied to both locations.  The source and destination should be identical after synchronizing.
@@ -86,16 +86,16 @@ It is possible to specify some parameters on the command line.
 It immediately starts the synchronization (with the last saved options). 
 
 /MINIMIZE 
-It starts DSynchronize minimized in the System Tray. 
+It starts டிஒத்திசை minimized in the System Tray. 
 
 /HIDDEN 
-It starts DSynchronize in the background without even displaying the icon in the Task Bar. 
+It starts டிஒத்திசை in the background without even displaying the icon in the Task Bar. 
 
 /NOSECURITYCHECK 
 Before effecting the synchronization, it doesn't check if they are possessed or I lead the permissions of read/write on the briefcases. In fact, In some rare case, it seems that the security check also prevents the synchronization on briefcases on which such permissions are possessed, for which, to select the option aforesaid, it allows to also operate normally in that particular cases. 
 
 /SOMEFILE.INI 
-It uses a specific file INI to control the synchronization. This file must be on same directory of DSynchronize.
+It uses a specific file INI to control the synchronization. This file must be on same directory of டிஒத்திசை.
 
 
 Dimitrios Coutsoumbas (Dimio)
