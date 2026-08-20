@@ -150,7 +150,7 @@
 1 Hidden Container
 2 மறைக்கப்பட்ட கொள்கலன்
 1 DSynchronize
-2 டிஒத்திசை
+2 டிஒத்திசை         _
 1 Timer
 2 Timer
 1 Pre calculates ETA
@@ -176,7 +176,7 @@
 1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
 2 இருவர்களிடமிருந்தும் மிக சமீபத்திய கோப்புகளைப் பயன்படுத்தி கோப்புறைகளை ஒத்திசைக்கலாம், இரண்டு கோப்புறைகளின் சமன்பாடு இரண்டுமே மிக சமீபத்திய கோப்புகளைக் கொண்டிருக்கும்
 1 DSynchronize - Bidirectional Sync
-2 டிஒத்திசை - இருதிசை ஒத்திசைவு
+2 டிஒத்திசை - இருதிசை ஒத்திசைவு       ...
 1 If Realtime is not enabled, Bidirectional sync can't get file deletions, because DSynchronize don't knows if a single file was added on source path or was deleted from destination path (or viceversa), so it assumes that all files was added everywhere.
 
 This can give unattended results, do you want enable anyway Bidirectional Sync?
@@ -382,7 +382,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Find ini file
 2 Ini கோப்பை கண்டுபிடி
 1 &Help
-2 &உதவி
+2 உதவி
 1 &Home Page Web
 2 முகப்பு பக்கம் வலை
 1 Check for New Version
@@ -394,7 +394,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Support with Donation...
 2 நன்கொடை வழங்கல்...
 1 &About DSynchronize
-2 டிஒத்திசை பற்றி
+2 டிஒத்திசை பற்றி       ...
 1 &Show
 2 காட்டு
 1 &About
@@ -424,7 +424,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 &Select all
 2 &அனைத்தையும் தேர்ந்தெடு
 1 &Deselect all
-2 &எல்லாவற்றையும் தேர்வுநீக்கம் செய்யவும்
+2 எல்லாவற்றையும் தேர்வுநீக்கு
 1 Empty Recycle Bin
 2 வெற்று மறுசுழற்சி பின்
 1 Re&move	Del
@@ -520,7 +520,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Unable to get version information, check Internet connection or Firevall/Proxy settings.
 2 பதிப்பு பதிப்பை பெற முடியவில்லை, இணைய இணைப்பு அல்லது ஃபயர்வால் / ப்ராக்ஸி அமைப்புகளை சரிபார்க்க முடியவில்லை.
 1 DSynchronize - Help
-2 டிஒத்திசை - உதவி
+2 டிஒத்திசை - உதவி       ...
 1 Help
 2 உதவி
 1 About
@@ -578,7 +578,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 DONATE
 2 நன்கொடை
 1 DSynchronize - About
-2 டிஒத்திசை -  பற்றி
+2 டிஒத்திசை -  பற்றி       ...
 1 e-mail:
 2 மின்னஞ்சல்:
 1 home page:
@@ -628,11 +628,11 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 File Selection
 2 File Selection
 1 Inclusion Filter:
-2 வடிகட்டி உள்ளீடு:
+2 Inclusion Filter:
 1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
 2 பல வடிப்பான்களைப் பயன்படுத்த நீங்கள் அவற்றை ";" உடன் பிரிக்க வேண்டும், எ.கா. *. exe; *. txt; settings.ini; *. டா?
 1 Exclusion Filter:
-2 வடிகட்டி விலக்கு:
+2 Exclusion Filter:
 1 Filter Options
 2 Filter Options
 1 Do not include subfolders on synchronization
@@ -719,9 +719,9 @@ Are you sure to want enable this option?
 1 Send Test Email
 2 சோதனை மின்னஞ்சல் அனுப்பு
 1 DSynchronize Email Log Test
-2 டிஒத்திசை
+2 டிஒத்திசை மின்னஞ்சல் பதிவு சோதனை
 1 Email sent from DSynchronize for testing purposes.
-2 டிஒத்திசை
+2 டிஒத்திசை மின்னஞ்சல் பதிவு சோதனை அனுப்பப்பட்டது
 1 Sent from PC:
 2 PC இலிருந்து அனுப்பப்பட்டது:
 1 Email Test Successfull.
@@ -731,9 +731,9 @@ Are you sure to want enable this option?
 1 Sending test Email... FAIL
 2 சோதனை மின்னஞ்சல் அனுப்புகிறது ... தோல்வி
 1 DSynchronize Log Report
-2 டிஒத்திசை
+2 டிஒத்திசை பதிவு அறிக்கை
 1 DSynchronize - Email
-2 டிஒத்திசை - 
+2 டிஒத்திசை - மின்னஞ்சல்
 1 Email Sender: Email address is not valid
 2 மின்னஞ்சல் அனுப்பியவர்: மின்னஞ்சல் முகவரி தவறானது
 1 Send To: Email address is not valid
@@ -743,7 +743,7 @@ Are you sure to want enable this option?
 1 Select Recycle Bin
 2 தேர்ந்தெடு மறுசுழற்சி பை
 1 Use Windows recycle bin
-2 விண்டோஸ் மறுசுழற்சி பை பயன்படுத்தவும்
+2 சாளர மறுசுழற்சி பை பயன்படுத்து
 1 Use a custom folder as recycle bin...
 2 மறுசுழற்சி பை என ஒரு தனிபயன் கோப்புறையைப் பயன்படுத்து ...
 1 Selected path not exists, reverting to Windows Recycle Bin.
