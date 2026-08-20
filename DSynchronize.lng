@@ -84,9 +84,9 @@
 1 Save log file "DSynchronize.log" on disk
 2 வட்டில் உள்ள "டிஒத்திசை.லாக்" என்ற லாக் கோப்பை சேமி 
 1 Show Jobs at start
-2 ஆரம்பத்தில் வேலைகளைக் காண்பி
+2 ஆரம்பத்தில் பணிகளைக் காண்பி
 1 Show job's window at start
-2 தொடக்கத்தில் வேலை சாளரத்தை காட்டு
+2 தொடக்கத்தில் பணி சாளரத்தை காட்டு
 1 Ignore path errors
 2 பாதை பிழைகள் புறக்கணி
 1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
@@ -233,6 +233,8 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 2 இந்த விருப்பத்தை பயன்படுத்த நீங்கள் நிர்வாகியாக டிஒத்திசை தொடங்க வேண்டும்.
 1 JOBS
 2 பணிகள்
+1 JOBS LIST
+2 பணிகள் பட்டியல்
 1 Select and manage Jobs
 2 பணிகளை தேர்ந்தெடு மற்றும் நிர்வகி
 1 Destinations
@@ -306,11 +308,11 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Lock all settings to prevent unwanted changes
 2 தேவையற்ற மாற்றங்களைத் தடுக்க அனைத்து அமைப்புகளையும் பூட்டவும்
 1 Email Log
-2 மின்னஞ்சல் புகுபதிகை
+2 மின்னஞ்சல் பதிவு
 1 Preview
 2 முன்னோட்டம்
 1 &File
-2 கோப்பு        _
+2 கோப்பு          _
 1 Change Ini File...
 2 Ini கோப்பு மாற்று...
 1 Save Settings Now
@@ -554,11 +556,11 @@ Alt + F4 = வெளியேறு நிரல்.
 Alt + F5 = சேமிப்பக அமைப்புகளை இல்லாமல் நிரல் வெளியேறு.
 வலது / இடது = மூலங்கள் மற்றும் இலக்குகளுக்கு இடையில் மாறவும்.
 மேலே / கீழே = முந்தைய / அடுத்த உருப்படி தேர்ந்தெடு.
-மேலும் கீழே = புதிய ஜோடி பாதைகள் (ஆதாரம் மற்றும் இலக்கு) சேர்.
+மேலும் கீழே = புதிய இணை பாதைகள் (ஆதாரம் மற்றும் இலக்கு) சேர்.
 
 [COMMAND LINE]
 /START = கடைசி சேமித்த விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்.
-/STARTJOB "JobName" = தேர்ந்தெடுத்த வேலை விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்).
+/STARTJOB "JobName" = தேர்ந்தெடுத்த பணி விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்).
 /MINIMIZE = தட்டு பட்டியில் சிறிது துவக்கப்படும்.
 /HIDDEN = தட்டு பட்டியில் ஐகானை காட்டாதே.
 /NOSECURITYCHECK = ஒத்திசைவுக்கு முன் பாதுகாப்பு சோதனை செய்யாதீர்கள்.
@@ -568,7 +570,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Support with a Donation
 2 நன்கொடைகள் மூலம் ஆதரவு
 1 Cancel
-2 ரத்துசெய்
+2 கைவிடு
 1 Thanks for your generosity!
 2 உங்கள் பெருந்தன்மைக்கு நன்றி!
 1 This software is and will always remain free. If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
@@ -582,49 +584,49 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 home page:
 2 முகப்பு:
 1 Make a Donation
-2 நன்கொடை செய்யுங்கள்
+2 நன்கொடை அளி
 1 Version
 2 பதிப்பு 
 1 Load Job
-2 வேலை பதிவேற்றம்
+2 பணி பதிவேற்றம்
 1 New Job
-2 புதிய வேலை
+2 புதிய பணி
 1 Delete Job
-2 வேலை நீக்கு
+2 பணி நீக்கு
 1 Instant Update
 2 உடனடி மேம்படுத்தல்
 1 Show me again
 2 என்னை மீண்டும் காட்டு
 1 When you select a Job, loads his options immediately
-2 நீங்கள் ஒரு வேலையைத் தேர்ந்தெடுக்கும்போது, உடனடியாக தனது விருப்பங்களை ஏற்றுகிறது
+2 நீங்கள் ஒரு பணியைத் தேர்ந்தெடுக்கும்போது, உடனடியாக தனது விருப்பங்களை ஏற்றுகிறது
 1 Rename	F2
 2 மறுபெயரிடுக	F2
 1 Move Up	PgUp
-2 மேலே நகர்த்து	PgUp
+2 மேலே நகர்த்து	மேல்பக்கம்
 1 Move Down	PgDn
-2 கீழே நகர்த்து	PgDn
+2 கீழே நகர்த்து	கீழ்பக்கம்
 1 Duplicate Job
-2 நகல் வேலை
+2 நகல் பணி
 1 Delete Job	Canc
-2 வேலை கேன்களை	நீக்கு
+2 பணிநீக்குகளை	நீக்கு
 1 Are you sure to want delete this Job?
-2 இந்த வேலைகளை நீக்க விரும்புகிறீர்களா?
+2 இந்த பணிகளை நீக்க விரும்புகிறீர்களா?
 1 Move up and down selected Job
-2 தேர்ந்தெடுத்த வேலைகளை மேலே நகர்த்தவும் மற்றும் கீழே நகர்த்தவும்
+2 தேர்ந்தெடுத்த பணிகளை மேலே நகர்த்தவும் மற்றும் கீழே நகர்த்தவும்
 1 'F2' to rename Jobs
 'Del' to delete a job
 'Del+Shift' to delete a job without confirms
 'PagUp' to move Up an Item
 'PagDn' to move Down an Item
-2 வேலைகள் மறுபெயரிட 'F2'
-ஒரு வேலை நீக்க 'டெல்'
-உறுதிப்படுத்தாமல் ஒரு வேலையை நீக்க 'Del + Shift'
+2 பணிகள் மறுபெயரிட 'F2'
+ஒரு பணி நீக்க 'நீக்கு'
+உறுதிப்படுத்தாமல் ஒரு பணியை நீக்க 'Del + Shift'
 ஒரு பொருளை மேலே நகர்த்துவதற்கு 'PagUp'
 ஒரு பொருள் கீழே நகர்த்த 'PagDn'
 1 DSynchronize - Filter
-2 டிஒத்திசை - வடிகட்டி
+2 டிஒத்திசை - வடிகட்டி        ...
 1 File Selection
-2 கோப்பு தேர்வு
+2 File Selection
 1 Inclusion Filter:
 2 வடிகட்டி உள்ளீடு:
 1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
@@ -632,7 +634,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Exclusion Filter:
 2 வடிகட்டி விலக்கு:
 1 Filter Options
-2  வடிகட்டி அமைப்புகள்
+2 Filter Options
 1 Do not include subfolders on synchronization
 2 ஒத்திசைவில் துணைகோப்புறைகளை சேர்க்க வேண்டாம்
 1 Apply filters to folders
@@ -640,7 +642,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Apply filters to files
 2 கோப்புகளை வடிகட்டிகள் இடு
 1 Filter Timings
-2 வடிகட்டி நேரங்கள்
+2 Filter Timings
 1 Exclude files modified before:
 2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கு:
 1 Exclude files modified after:
@@ -656,7 +658,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Difference of GMT between source and destination
 2 மூல மற்றும் இலக்கு இடையே GMT வேறுபாடு
 1 Folder Selection
-2 கோப்புறை தேர்வு
+2 Folder Selection
 1 Selected path not exists...
 2 தேர்ந்தெடுத்த பாதை இல்லை...
 1 Do not sync added later folders (can slow down the sync)
@@ -1013,7 +1015,7 @@ Are you sure to want enable this option?
 1 Ejected Drives: 
 2 வெளியேற்றப்பட்ட இயக்ககங்கள்:
 1 Active Job
-2 செயலில் வேலை
+2 செயலில் பணி
 1 Synchronization OK
 2 ஒத்திசைத்தல் சரி
 1 End Synch at
