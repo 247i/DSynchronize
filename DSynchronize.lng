@@ -60,15 +60,15 @@
 1 Clear list
 2 தெளிவான பட்டியல்
 1 Find file
-2 கோப்பை கண்டுபிடிக்கவும்
+2 கோப்பை கண்டுபிடி
 1 Explore folder
 2 கோப்புறையை ஆராயுங்கள்
 1 General
 2 General
 1 Execute at the end...
-2 இறுதியில் இயக்கவும்...
+2 இறுதியில் இயக்கு...
 1 Execute at the end
-2 இறுதியில் இயக்கவும்
+2 இறுதியில் இயக்கு
 1 Skip empty folders
 2 வெற்று கோப்புறைகளை தவிர்
 1 Do not sync folders if they are empty
@@ -90,11 +90,11 @@
 1 Ignore path errors
 2 பாதை பிழைகள் புறக்கணி
 1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
-2 ஒரு பாதை (மூல அல்லது இலக்கு) இல்லையென்றால், எந்த பிழை செய்தியும் இல்லாமல் அதைத் தட்டவும், கோப்புறை பாதுகாப்பு சரிபார்க்கவும் கூட புறக்கணிக்கப்படும்
+2 ஒரு பாதை (மூல அல்லது இலக்கு) இல்லையென்றால், எந்த பிழை செய்தியும் இல்லாமல் அதைத் தட்டவும், கோப்புறை பாதுகாப்பு சரிபார் கூட புறக்கணிக்கப்படும்
 1 Verify copy
 2 நகல் சரிபார் 
 1 Verify byte to byte
-2 பைட் பைட்டாக சரிபார்க்கவும்
+2 பைட் பைட்டாக சரிபார்
 1 Byte to byte sync
 2 பைட் பைட்டாக ஒத்திசை
 1 Realtime sync...
@@ -122,15 +122,15 @@
 1 Suffix destination with date
 2 பின்னணி தேதி கொண்ட இலக்கு
 1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
-2 இலக்கு கோப்புறையின் பெயருடன் தற்போதைய தேதி மற்றும் நேரத்தைச் சேர்க்கவும் (எடுத்துக்காட்டு "சி: \ இலக்கு" "சி: \ இலக்கு 2016-08-06 18.30")
+2 இலக்கு கோப்புறையின் பெயருடன் தற்போதைய தேதி மற்றும் நேரத்தைச் சேர் (எடுத்துக்காட்டு "சி: \ இலக்கு" "சி: \ இலக்கு 2016-08-06 18.30")
 1 Create folder if not exists
-2 கோப்புறை இல்லையெனில் உருவாக்கவும்
+2 கோப்புறை இல்லையெனில் உருவாக்கு
 1 If destination path does not exists it creates a new one
 2 இலக்கு பாதை இல்லையென்றால் அது ஒரு புதிய கோப்புறை ஒன்றை உருவாக்குகிறது
 1 Copy only newer files
-2 புதிய கோப்புகளை மட்டும் நகலெடுக்கவும்
+2 புதிய கோப்புகளை மட்டும் நகலெடு
 1 Update files into destination folder only if source files are more recent
-2 மூல கோப்புறையிலுள்ள புதிய கோப்புகளை மட்டுமே  இலக்கு கோப்புறையை புதுப்பிக்கவும்
+2 மூல கோப்புறையிலுள்ள புதிய கோப்புகளை மட்டுமே  இலக்கு கோப்புறையை புதுப்பி
 1 Sync file/folder timings too
 2 கோப்பு / அடைவு நேரம் கூட ஒத்திசைவு .
 1 Sync creation and last modify time too
@@ -152,7 +152,7 @@
 1 DSynchronize
 2 டிஒத்திசை
 1 Timer
-2 கணிப்பான்
+2 Timer
 1 Pre calculates ETA
 2 எ.ப.நேஐ கணக்கிடுகிறது
 1 Before to start sync, compute number of files to sync to show ETA (estimated time of arrival) and progress bar
@@ -192,7 +192,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Autostart
 2 தானியங்கு தொடக்கம்
 1 Execute DSynchronize at system startup
-2 கணினி துவக்கத்தில் டிஒத்திசைவை இயக்கவும் 
+2 கணினி துவக்கத்தில் டிஒத்திசைவை இயக்கு
 1 Transactional sync
 2 பரிவர்த்தனை ஒத்திசைவு
 1 Syncronize folders using Journaling feature of NTFS
@@ -228,13 +228,13 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Reset list if too full
 2 மிக முழுமையான பட்டியலை மீட்டமை
 1 If they are too many items (over 1000), reset list
-2 பல பொருட்கள் (1000 க்கு மேல்) இருந்தால், பட்டியலை மீட்டமைக்கவும்
+2 பல பொருட்கள் (1000 க்கு மேல்) இருந்தால், பட்டியலை மீட்டமை
 1 You have to start DSynchronize as Administrator to use this option.
 2 இந்த விருப்பத்தை பயன்படுத்த நீங்கள் நிர்வாகியாக டிஒத்திசை தொடங்க வேண்டும்.
 1 JOBS
 2 வேலைகள்
 1 Select and manage Jobs
-2 வேலைகள் தேர்ந்தெடு மற்றும் நிர்வகிக்கவும் (JOBS)
+2 வேலைகள் தேர்ந்தெடு மற்றும் நிர்வகி (JOBS)
 1 Destinations
 2 Destinations
 1 <A>About</A>
@@ -244,7 +244,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Set filter to include/exclude files or folders from sync
 2 ஒத்திசைவிலிருந்து கோப்புகளை அல்லது கோப்புறைகளை சேர்க்க / நீக்க, வடிகட்டி அமை 
 1 Commands
-2 கட்டளைகள்
+2 Commands
 1 AS
 2 ஆக
 1 SERVICE
@@ -252,17 +252,17 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 RUNNING
 2 இயக்குகிறீர்
 1 &Synchronize
-2 &ஒத்திசை
+2 ஒத்திசை
 1 &Pause
-2 &இடைநிறுத்தம்
+2 இடைநிறுத்தம்
 1 &Stop
-2 &நிறுத்து
+2 நிறுத்து
 1 Debug
 2 பிழைதிருத்து
 1 Sources
 2 Sources
 1 Special
-2 சிறப்பு
+2 Special
 1 Antifragmentation
 2 எதிர்ப்புபிரிவு
 1 Do not replaces files, they first will be deleted from destination and then added again to it
@@ -276,21 +276,21 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Copy ACL (Access Control List) on NTFS
 2 NTFSஇல் ACL (அணுகல் கட்டுப்பாட்டு பட்டியல்) நகல்
 1 Copy hard links
-2 கடின இணைப்புகள் நகலெடுக்கவும்
+2 கடின இணைப்புகள் நகலெடு
 1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
 2 கடினமான இணைப்புகளை மீண்டும் உருவாக்க முயற்சித்தால் (ஒரு கோப்பின் அனைத்து கடின இணைப்புகள் அதே பிரிவில் இருக்க வேண்டும்)
 1 Verify symbolic links
-2 குறியீட்டு இணைப்புகள் சரிபார்க்கவும்
+2 குறியீட்டு இணைப்புகள் சரிபார்
 1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
-2 இலக்கு கோட்டில் (எ.கா. உறவினர் இணைப்புகள்) செல்லுபடியாகாததாலும், இலக்கு கோப்பினை நகலெடுக்கும்போது குறியீட்டு இணைப்புகளுக்கு செல்லுபடியாக்கலை சரிபார்க்கவும்.
+2 இலக்கு கோட்டில் (எ.கா. தொடர்பு இணைப்புகள்) செல்லுபடியாகாததாலும், இலக்கு கோப்பினை நகலெடுக்கும்போது குறியீட்டு இணைப்புகளுக்கு செல்லுபடியாக்கலை சரிபார்.
 1 Copy symbolic links
-2 குறியீட்டு இணைப்புகள் நகலெடுக்கவும்
+2 குறியீட்டு இணைப்புகள் நகலெடு
 1 Copy symbolic links as is
 2 குறியீட்டு இணைப்புகள் இதுபோன்ற நகலெடுக்க
 1 Check free space
-2 இலவச இடத்தைச் சரிபார்க்கவும்
+2 இலவச இடத்தைச் சரிபார்
 1 Check free space before start file copy
-2 கோப்பின் நகல் தொடங்குவதற்கு முன் இலவச இடத்தைச் சரிபார்க்கவும்
+2 கோப்பின் நகல் தொடங்குவதற்கு முன் இலவச இடத்தைச் சரிபார்
 1 Use Recycle Bin
 2 சுழற்சி பை பயன்படுத்துக
 1 Move deleted files to Recycle Bin
@@ -300,7 +300,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Adjust path drive
 2 பாதை இயக்கி சரிசெய்தல்
 1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
-2 பாதை இயக்கி மாற்றினால், அதன்படி பாதைகள் சரிசெய்யவும் (தயவுசெய்து, தொகுதி தொகுதிகளை சேமிப்பதற்கு அனுமதிக்க "வெளியேறும்போது சேமி" என்ற விருப்பத்தைத் தேர்ந்தெடுக்கவும்)
+2 பாதை இயக்கி மாற்றினால், அதன்படி பாதைகள் சரிசெய்யவும் (தயவுசெய்து, தொகுதி தொகுதிகளை சேமிப்பதற்கு அனுமதிக்க "வெளியேறும்போது சேமி" என்ற விருப்பத்தைத் தேர்ந்தெடு)
 1 Lock Interface
 2 பூட்டு இடைமுகம்
 1 Lock all settings to prevent unwanted changes
@@ -322,7 +322,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 &Options
 2 விருப்பங்கள்    __
 1 Revert all options to default
-2 அனைத்து விருப்பங்களையும் இயல்புநிலைக்கு மாற்றியமைக்கவும்
+2 அனைத்து விருப்பங்களையும் இயல்புநிலைக்கு மாற்றியமை
 1 Remember window size
 2 சாளரத்தின் அளவு நினைவில் கொள்ளுங்கள்
 1 Show summary after sync
@@ -332,7 +332,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Hidden mode
 2 மறைக்கப்பட்ட பயன்முறை
 1 Maintain old versions
-2 பழைய பதிப்புகளை பராமரிக்கவும்
+2 பழைய பதிப்புகளை பராமரி
 1 No old versions
 2 பழைய பதிப்புகள் இல்லை
 1 1 old version
@@ -360,13 +360,13 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 &Tools
 2 கருவிகள்       _
 1 Test all selected paths
-2 தேர்ந்தெடுக்கப்பட்ட எல்லா பாதைகளையும் சோதிக்கவும்
+2 தேர்ந்தெடுக்கப்பட்ட எல்லா பாதைகளையும் சோதி
 1 Set realtime deferred sync log path...
-2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு பதிவு பாதையை அமைக்கவும் ...
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு பதிவு பாதையை அமை ...
 1 Find deferred sync file...
 2 ஒத்திவைக்கப்பட்ட ஒத்திசைவு கோப்பைக் கண்டறிக ...
 1 Execute realtime deferred sync
-2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவை இயக்கவும்
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவை இயக்கு
 1 Delete all Empty folders...
 2 அனைத்து வெற்று கோப்புறைகளையும் நீக்கு...
 1 Use multiple log files
@@ -384,7 +384,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 &Home Page Web
 2 முகப்பு பக்கம் வலை
 1 Check for New Version
-2 புதிய பதிப்பு சரிபார்க்கவும்
+2 புதிய பதிப்பு சரிபார்
 1 Contact the programmer
 2 நிரலாளர் தொடர்புகொள்ளவும்
 1 Contact the translator
@@ -458,17 +458,17 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Are you sure do you want to revert all options to their factory default?
 2 நீங்கள் உண்மையிலேயே அனைத்து தொழிற்சாலைகளிலும் தங்கள் விருப்பப்படி இயல்புநிலைக்கு திரும்ப வேண்டுமா?
 1 Select the number of consecutive errors after which to stop the sync:
-2 ஒத்திசைவை நிறுத்த இது தொடர்ந்து பிழைகள் எண்ணிக்கை தேர்ந்தெடுக்கவும்:
+2 ஒத்திசைவை நிறுத்த இது தொடர்ந்து பிழைகள் எண்ணிக்கை தேர்ந்தெடு:
 1 Source paths verify
-2 மூல பாதைகளை சரிபார்க்கவும்
+2 மூல பாதைகளை சரிபார்
 1 Source paths verify:
-2 மூல பாதைகளை சரிபார்க்கவும்:
+2 மூல பாதைகளை சரிபார்:
 1 Destination paths verify:
-2 இலக்கு பாதைகள் சரிபார்க்கவும்:
+2 இலக்கு பாதைகள் சரிபார்:
 1 Source path verify:
-2 மூல பாதை சரிபார்க்கவும்:
+2 மூல பாதை சரிபார்:
 1 Destination path verify:
-2 இலக்கு பாதை சரிபார்க்கவும்:
+2 இலக்கு பாதை சரிபார்:
 1 Source path error:
 2 மூல பாதை பிழை:
 1 Destination paths verify
@@ -498,7 +498,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Real-Time deferred sync with manual activation.
 2 கையேடு செயல்படுத்தும் நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு.
 1 Select the root from which remove empty folders:
-2 வெற்று கோப்புறைகளை அகற்றுவதன் மூலத்தைத் தேர்ந்தெடுக்கவும்:
+2 வெற்று கோப்புறைகளை அகற்றுவதன் மூலத்தைத் தேர்ந்தெடு:
 1 Log file don't exists.
 2 பதிவு கோப்பு இல்லை.
 1 Log file has been deleted.
@@ -554,7 +554,7 @@ Alt + F4 = வெளியேறு நிரல்.
 Alt + F5 = சேமிப்பக அமைப்புகளை இல்லாமல் நிரல் வெளியேறு.
 வலது / இடது = மூலங்கள் மற்றும் இலக்குகளுக்கு இடையில் மாறவும்.
 மேலே / கீழே = முந்தைய / அடுத்த உருப்படி தேர்ந்தெடு.
-மேலும் கீழே = புதிய ஜோடி பாதைகள் (ஆதாரம் மற்றும் இலக்கு) சேர்க்கவும்.
+மேலும் கீழே = புதிய ஜோடி பாதைகள் (ஆதாரம் மற்றும் இலக்கு) சேர்.
 
 [COMMAND LINE]
 /START = கடைசி சேமித்த விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்.
@@ -606,7 +606,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Duplicate Job
 2 நகல் வேலை
 1 Delete Job	Canc
-2 வேலை கேன்களை	நீக்கவும்
+2 வேலை கேன்களை	நீக்கு
 1 Are you sure to want delete this Job?
 2 இந்த வேலைகளை நீக்க விரும்புகிறீர்களா?
 1 Move up and down selected Job
@@ -636,17 +636,17 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Do not include subfolders on synchronization
 2 ஒத்திசைவில் துணைகோப்புறைகளை சேர்க்க வேண்டாம்
 1 Apply filters to folders
-2 கோப்புறைகளுக்கு வடிப்பான்களை விண்ணப்பிக்கவும்
+2 கோப்புறைகளுக்கு வடிப்பான்களை இடு
 1 Apply filters to files
-2 கோப்புகளை வடிகட்டிகள் விண்ணப்பிக்கவும்
+2 கோப்புகளை வடிகட்டிகள் இடு
 1 Filter Timings
 2 வடிகட்டி நேரங்கள்
 1 Exclude files modified before:
-2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கவும்:
+2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கு:
 1 Exclude files modified after:
-2 பின் மாற்றம் கோப்புகளை நீக்கவும்:
+2 பின் மாற்றம் கோப்புகளை நீக்கு:
 1 Exclude files modified within:
-2 உள்ளிட்ட திருத்தப்பட்ட கோப்புகளை நீக்கவும்:
+2 உள்ளிட்ட திருத்தப்பட்ட கோப்புகளை நீக்கு:
 1 Days
 2 நாட்கள்
 1 Time-tollerance between two files
@@ -667,11 +667,11 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 furthermore, selecting ''Verify Byte to Byte'' will slow down very much the sync.
 
 Are you sure to want enable this option?
-2 சாதாரண ஒத்திசைவு நடவடிக்கைகளுக்கு இந்த விருப்பத்தை வடிவமைக்கப்படவில்லை நீங்கள் அதை மட்டும் குறிப்பிட்ட சூழ்நிலைகளில், இதற்கு மேலும், தேர்வு பயன்படுத்த வேண்டும் "பைட் செய்ய பைட் சரிபார்க்கவும்" மிகவும் ஒத்திசைவு மெதுவாக்கும் உள்ளது.
+2 சாதாரண ஒத்திசைவு நடவடிக்கைகளுக்கு இந்த விருப்பத்தை வடிவமைக்கப்படவில்லை நீங்கள் அதை மட்டும் குறிப்பிட்ட சூழ்நிலைகளில், இதற்கு மேலும், தேர்வு பயன்படுத்த வேண்டும் "பைட் செய்ய பைட் சரிபார்" மிகவும் ஒத்திசைவு மெதுவாக்கும் உள்ளது.
 
 இந்த விருப்பத்தை நீங்கள் நிச்சயமாக இயக்க வேண்டுமா?
 1 Select file or program to open at the end of sync... 
-2 ஒத்திசைவு முடிவில் திறக்க கோப்பை அல்லது நிரலைத் தேர்ந்தெடுக்கவும் ..
+2 ஒத்திசைவு முடிவில் திறக்க கோப்பை அல்லது நிரலைத் தேர்ந்தெடு ..
 1 Reporting activity OK
 2 செயல்பாட்டு நடவடிக்கை சரி
 1 Reporting activity FAIL
@@ -763,9 +763,9 @@ Are you sure to want enable this option?
 1 Deferred real-time sync (scheduled)
 2 ஒத்திவைக்கப்பட்ட நிகழ் நேர ஒத்திசைவு (திட்டமிடப்பட்டுள்ளது)
 1 Execute sync every:
-2 ஒவ்வொரு ஒத்திசைவை இயக்கவும்:
+2 ஒவ்வொரு ஒத்திசைவை இயக்கு:
 1 Clear previous deferred list of changes
-2 மாற்றங்கள் முந்தைய ஒத்திவைக்கப்பட்ட பட்டியலை அழிக்கவும்
+2 மாற்றங்கள் முந்தைய ஒத்திவைக்கப்பட்ட பட்டியலை அழி
 1 void
 2 வெறுமை
 1 Defer synchronization if changes occur within:
@@ -779,7 +779,7 @@ Are you sure to want enable this option?
 1 Do you want that a Standard sync take place first before enabling the Real-Time sync?
 2 நிகழ் நேர ஒத்திசைவை செயல்படுத்துவதற்கு முன்பு ஒரு நிலையான ஒத்திசைவு நடக்கும் என்று நீங்கள் விரும்புகிறீர்களா?
 1 Prevent bidirectional loop (if path is on a server version of Windows) 
-2 இருதிசை சுழற்சியை தடுக்கவும் (விண்டோஸ் சர்வர் பதிப்பில் பாதை இருந்தால்)
+2 இருதிசை சுழற்சியை தடு (விண்டோஸ் சர்வர் பதிப்பில் பாதை இருந்தால்)
 1 Prevent the Windows Server loop problem if the bidirectional option is enabled
 2 இருதிசை விருப்பம் இயக்கப்பட்டால் விண்டோஸ் சர்வர் சுழற்சி சிக்கலைத் தடுக்கிறது
 1 In some Windows Server versions, bidirectional sync can loop, this option fixes the problem
@@ -797,11 +797,11 @@ Are you sure to want enable this option?
 1 Error: destination path not exists
 2 பிழை: இலக்கு பாதையில் இல்லை
 1 Error: destination path not exists, retry?
-2 பிழை: இலக்கு பாதையில் இல்லை, மீண்டும் முயற்சிக்கவும்?
+2 பிழை: இலக்கு பாதையில் இல்லை, மீண்டும் முயற்சி?
 1 Error: source path not exists
 2 பிழை: மூல பாதை இல்லை
 1 Error: source path not exists, retry?
-2  பிழை: மூல பாதை இல்லை, மீண்டும் முயற்சிக்கவும்?
+2  பிழை: மூல பாதை இல்லை, மீண்டும் முயற்சி?
 1 DSynchronize - Transactional
 2 டிஒத்திசை  - பரிவர்த்தனை
 1 TRANSACTIONAL
@@ -859,7 +859,7 @@ Are you sure to want enable this option?
 1 DSynchronize - Scheduler
 2 டிஒத்திசை - திட்டமிடல்
 1 Main Selection
-2 முதன்மை தேர்வு
+2 Main Selection
 1 RealTime Sync Enabled
 2 நிகழ்நேர ஒத்திசைவு இயக்கப்பட்டது
 1 Timer Sync Enabled
@@ -871,7 +871,7 @@ Are you sure to want enable this option?
 1 Day Selection
 2 நாள் தேர்வு
 1 Start as Service
-2 சேவையாகத் தொடங்குங்கள்
+2 Start as Service
 1 Install Service
 2 சேவையை நிறுவவும்
 1 Uninstall Service
@@ -889,7 +889,7 @@ Are you sure to want enable this option?
 1 System Account
 2 கணினி கணக்கு
 1 Days selection
-2 நாட்கள் தேர்வு
+2 Days selection
 1 Days choice
 2 நாட்கள் விருப்பம்
 1 Synchronize every day
@@ -1055,9 +1055,9 @@ Are you sure to want enable this option?
 1 Port
 2 துறைமுகம்
 1 Test Connection
-2 இணைப்பு சரிபார்க்கவும்
+2 இணைப்பு சரிபார்
 1 Test Connection...
-2 இணைப்பு சரிபார்க்கவும்...
+2 இணைப்பு சரிபார்...
 1 Test Connection... FAIL
 2 சோதனை இணைப்பு ... தோல்வி
 1 Test Connection... SUCCESS
@@ -1067,7 +1067,7 @@ Are you sure to want enable this option?
 1 Ping... FAIL
 2 பிங் ... தோல்வி
 1 Wrong Parameters, check IP or port number
-2 தவறான அளவுருக்கள், ஐபி அல்லது போர்ட் எண்ணை சரிபார்க்கவும்
+2 தவறான அளவுருக்கள், ஐபி அல்லது போர்ட் எண்ணை சரிபார்
 1 'Start Sync' request received from Remote Controller
 2 தொலை கட்டுப்படுத்தியில் இருந்து 'ஒத்திசைவு தொடங்கு' கோரிக்கை பெறப்பட்டது
 1 'Stop Sync' request received from Remote Controller
