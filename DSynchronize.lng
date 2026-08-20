@@ -232,9 +232,9 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 You have to start DSynchronize as Administrator to use this option.
 2 இந்த விருப்பத்தை பயன்படுத்த நீங்கள் நிர்வாகியாக டிஒத்திசை தொடங்க வேண்டும்.
 1 JOBS
-2 வேலைகள்
+2 பணிகள்
 1 Select and manage Jobs
-2 வேலைகள் தேர்ந்தெடு மற்றும் நிர்வகி (JOBS)
+2 பணிகளை தேர்ந்தெடு மற்றும் நிர்வகி
 1 Destinations
 2 Destinations
 1 <A>About</A>
@@ -911,7 +911,7 @@ Are you sure to want enable this option?
 1 Friday
 2 வெள்ளி
 1 Saturday
-2 சனிக்கிழமை
+2 காரி
 1 Synchronize every
 2 ஒத்திசை ஒவ்வொரு
 1 Synchronize at
