@@ -598,7 +598,7 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Version
 2 பதிப்பு 
 1 Load Job
-2 பணி பதிவேற்றம்
+2 பணி ஏற்றம்
 1 Load settings...
 2 அமைப்புகள் பதிவேற்றம்       ...
 1 New Job
@@ -606,13 +606,13 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Delete Job
 2 பணி நீக்கு
 1 Instant Update
-2 உடனடி மேம்படுத்தல்
+2 உடனடி மேம்படுத்து
 1 Show me again
-2 என்னை மீண்டும் காட்டு
+2 மீண்டும் எனக்கு காட்டு
 1 When you select a Job, loads his options immediately
 2 நீங்கள் ஒரு பணியைத் தேர்ந்தெடுக்கும்போது, உடனடியாக தனது விருப்பங்களை ஏற்றுகிறது
 1 Rename	F2
-2 மறுபெயரிடுக	F2
+2 மறுபெயரிடு	F2
 1 Move Up	PgUp
 2 மேலே நகர்த்து	மேல்பக்கம்
 1 Move Down	PgDn
@@ -656,11 +656,13 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Filter Timings
 2 Filter Timings
 1 Exclude files modified before:
-2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கு:
+2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கு                :
 1 Exclude files modified after:
-2 பின் மாற்றம் கோப்புகளை நீக்கு:
+2 பின் மாற்றம் கோப்புகளை நீக்கு                :
 1 Exclude files modified within:
-2 உள்ளிட்ட திருத்தப்பட்ட கோப்புகளை நீக்கு:
+2 உள்ளிட்ட திருத்தப்பட்ட கோப்புகளை நீக்கு                :
+1 Time-tolerance between two files
+2 இரண்டு கோப்புகளுக்கான ஏற்கக்கூடிய நேரவேறுபாடு               :
 1 Days
 2 நாட்கள்
 1 Time-tollerance between two files
@@ -671,12 +673,12 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 2 மூல மற்றும் இலக்கு இடையே GMT வேறுபாடு
 1 Folder Selection
 2 Folder Selection
-1 Selected path not exists...
+1 SELECTED PATH NOT EXISTS...
 2 தேர்ந்தெடுத்த பாதை இல்லை...
 1 Do not sync added later folders (can slow down the sync)
 2 பின்னர் பிணைப்புகளை ஒத்திசைக்காதே (ஒத்திசைவைக் குறைக்கலாம்)
 1 Reset Defaults
-2 இயல்புநிலை மீட்டமை
+2 மீட்டமை
 1 This option is not designed for normal sync operations, you should use it only in particular situations,
 furthermore, selecting ''Verify Byte to Byte'' will slow down very much the sync.
 
@@ -754,6 +756,8 @@ Are you sure to want enable this option?
 2 டிஒத்திசை - மறுசுழற்சி பை
 1 Select Recycle Bin
 2 தேர்ந்தெடு மறுசுழற்சி பை
+1 Select All
+2 அனைத்தும் தேர்ந்தெடு
 1 Use Windows recycle bin
 2 சாளர மறுசுழற்சி பை பயன்படுத்து
 1 Use a custom folder as recycle bin...
@@ -978,6 +982,8 @@ Are you sure to want enable this option?
 2 ஒத்திசைவு (சேவையாக) தொடங்கியது
 1 Synchronization OK: 
 2 ஒத்திசைவு சரி:
+1 Ok 
+2 சரி
 1 Synchronization interrupted.
 2 ஒத்திசைவு குறுக்கிடப்பட்டது.
 1 Synchronization paused.
