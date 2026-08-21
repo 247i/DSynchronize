@@ -767,7 +767,7 @@ Are you sure to want enable this option?
 1 Select a folder...
 2 ஒரு கோப்புறையைத் தேர்ந்தெடு...
 1 DSynchronize - Realtime
-2 டிஒத்திசை - நிகழ்நேரம்
+2 டிஒத்திசை - நிகழ்நேரம்        ...
 1 REALTIME
 2 நிகழ்நேர
 1 Real-time syncronization
@@ -875,7 +875,7 @@ Are you sure to want enable this option?
 1 Destination path file system supports Journaling but it's not enabled, do you want to enable Journaling?
 2 இலக்கு பாங்கு கோப்பு முறை ஜர்னலிங் ஆதரிக்கிறது ஆனால் அது செயல்படுத்தப்படவில்லை, நீங்கள் ஜர்னலிங் ஐ இயக்க விரும்புகிறீர்களா?
 1 DSynchronize - Scheduler
-2 டிஒத்திசை - திட்டமிடல்
+2 டிஒத்திசை - திட்டமிடல்            ...
 1 Main Selection
 2 Main Selection
 1 RealTime Sync Enabled
@@ -891,11 +891,11 @@ Are you sure to want enable this option?
 1 Start as Service
 2 Start as Service
 1 Install Service
-2 சேவையை நிறுவவும்
+2 சேவையை நிறுவு
 1 Uninstall Service
-2 சேவை நீக்குதல்
+2 சேவை நீக்கு
 1 Start Service
-2 சேவை தொடக்கம்
+2 சேவை தொடங்கு
 1 Stop Service
 2 சேவை நிறுத்து
 1 Done
