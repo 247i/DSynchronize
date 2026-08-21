@@ -549,33 +549,34 @@ Further Down = Add new couple of paths (Source and Destination).
 
 [COMMAND LINE]
 /START = Start synch with last saved options.
-/STARTJOB "JobName" = Start synch with selected Job options).
+/RETARD = Start synch with last saved options after 60 seconds.
+/STARTJOB "JobName" = Start synch with selected Job options.
 /MINIMIZE = Starts minimized in the Tray Bar.
 /HIDDEN = Do not display icon in Tray Bar.
 /NOSECURITYCHECK  = Don't makes security check before sync.
 /NOMONITORCHECK = Do not check monitor resolution.
 /AUTOREALTIME = Starts minimized, do a standard sync and activate RealTime.
-/SOMEFILE.INI  = Starts using selected INI file.
-2 [HOT KEYS]
+/SOMEFILE.INI = Starts using selected INI file.
+2 [சூடான விசைகள்]
 F1 = இந்த சாளரத்தை திற
-F2 / Enter = மாற்றங்களை மாற்றுக.
-Del = பாதைகள் ஜோடி நீக்கு.
-PagUp / PagDn = உருப்படியை நகர்த்தவும் அல்லது கீழே நகர்த்தவும்.
-வலது கிளிக் = சோதனை பாதை, அமை வடிகட்டிகள், பாதைகள் உலாவுக.
+F2 / உள்ளிடு = மாற்றங்களை மாற்றுக.
+Del = பாதைகள் இணை நீக்கு.
+PagUp / PagDn = உருப்படியை நகர்த்தவும் அல்லது கீழே நகர்த்து.
+வலது சொடுக்கு = சோதனை பாதை, அமை வடிகட்டிகள், பாதைகள் உலாவுக.
 Alt + F4 = வெளியேறு நிரல்.
 Alt + F5 = சேமிப்பக அமைப்புகளை இல்லாமல் நிரல் வெளியேறு.
 வலது / இடது = மூலங்கள் மற்றும் இலக்குகளுக்கு இடையில் மாறவும்.
 மேலே / கீழே = முந்தைய / அடுத்த உருப்படி தேர்ந்தெடு.
-மேலும் கீழே = புதிய இணை பாதைகள் (ஆதாரம் மற்றும் இலக்கு) சேர்.
+மேலும் கீழே = புதிய இணை பாதைகள் (மூலம் மற்றும் இலக்கு) சேர்.
 
-[COMMAND LINE]
-/START = கடைசி சேமித்த விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்.
-/STARTJOB "JobName" = தேர்ந்தெடுத்த பணி விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கவும்).
+[கட்டளை வரி]
+/START = கடைசி சேமித்த விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கு.
+/STARTJOB "JobName" = தேர்ந்தெடுத்த பணி விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கு).
 /MINIMIZE = தட்டு பட்டியில் சிறிது துவக்கப்படும்.
 /HIDDEN = தட்டு பட்டியில் ஐகானை காட்டாதே.
 /NOSECURITYCHECK = ஒத்திசைவுக்கு முன் பாதுகாப்பு சோதனை செய்யாதீர்கள்.
-/NOMONITORCHECK = மானிட்டர் தீர்மானத்தை சரிபார்க்க வேண்டாம்.
-/AUTOREALTIME = குறைந்தபட்சம் துவங்கியது, ஒரு நிலையான ஒத்திசைவு செய்து RealTime ஐ செயல்படுத்தவும்.
+/NOMONITORCHECK = திரைத்தெளிவை சரிபார்க்க வேண்டாம்.
+/AUTOREALTIME = குறைந்தபட்சம் துவங்கியது, ஒரு நிலையான ஒத்திசைவு செய்து நிகழ்நேரத்தை செயல்படுத்து.
 /SOMEFILE.INI = தேர்ந்தெடுத்த INI கோப்பைப் பயன்படுத்தி தொடங்குகிறது.
 1 Support with a Donation
 2 நன்கொடைகள் மூலம் ஆதரவு
@@ -606,9 +607,9 @@ Alt + F5 = சேமிப்பக அமைப்புகளை இல்ல�
 1 Delete Job
 2 பணி நீக்கு
 1 Instant Update
-2 உடனடி மேம்படுத்து
+2 மேம்படுத்து
 1 Show me again
-2 மீண்டும் எனக்கு காட்டு
+2 மீண்டும் காட்டு
 1 When you select a Job, loads his options immediately
 2 நீங்கள் ஒரு பணியைத் தேர்ந்தெடுக்கும்போது, உடனடியாக தனது விருப்பங்களை ஏற்றுகிறது
 1 Rename	F2
@@ -757,7 +758,7 @@ Are you sure to want enable this option?
 1 Select Recycle Bin
 2 தேர்ந்தெடு மறுசுழற்சி பை
 1 Select All
-2 அனைத்தும் தேர்ந்தெடு
+2 எல்லாம் தேர்வு
 1 Use Windows recycle bin
 2 சாளர மறுசுழற்சி பை பயன்படுத்து
 1 Use a custom folder as recycle bin...
