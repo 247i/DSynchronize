@@ -1,7 +1,7 @@
 ﻿#Language=தமிழ்
 #TranslatorName=தமிழ்நேரம்
 #Contact=TamilNeram247@gmail.com
-#LastUpdated=2026-Aug-18
+#LastUpdated=2026-Aug-22
 #Rel= 2.40.10 
 1 DSynchronize - Old Ini file loaded: some features will not be available
 2 டிஒத்திசை - பழைய INI கோப்பு ஏற்றப்பட்டது: சில பண்புகள் கிடைக்காது
@@ -42,9 +42,9 @@
 1 Sync (stage 2/2):
 2 ஒத்திசைவு (நிலை  2/2):
 1 C:\SourcePath
-2 சி:\மூல கோப்புறை
+2 இ:\மூல கோப்புறை
 1 F:\DestinationPath
-2 ப்:\\இலக்கு கோப்புறை
+2 ஐ:\இலக்கு கோப்புறை
 1 Timings
 2 நேரங்கள்
 1 Files
@@ -78,11 +78,11 @@
 1 1st click: Exit at the end of sync*2nd click: Shutdown the system at the end of sync (red icon)
 2 1st click: ஒத்திசைவின் முடிவில் வெளியேறு * 2nd click: ஒத்திசைவு முடிவில் கணினியை நிறுத்து (சிவப்பு ஐகான்)
 1 Exit or Shutdown PC at the end
-2 இறுதியில் வெளியேறும்/கணினி பணிநிறுத்தம்
+2 இறுதியில் வெளியேறும்/பணிநிறுத்தம்
 1 Write log on disk
 2 வட்டில் பதிவு எழுதவும்
 1 Save log file "DSynchronize.log" on disk
-2 வட்டில் உள்ள "டிஒத்திசை.லாக்" என்ற லாக் கோப்பை சேமி 
+2 வட்டில் உள்ள "டிஒத்திசை.லாக்" என்ற பதிவு கோப்பை சேமி 
 1 Show Jobs at start
 2 ஆரம்பத்தில் பணிகளைக் காண்பி
 1 Show job's window at start
@@ -152,7 +152,9 @@
 1 Hidden Container
 2 மறைக்கப்பட்ட கொள்கலன்
 1 DSynchronize
-2 டிஒத்திசை         _
+2 டிஒத்திசை         ...
+1 DSynchronize - Job 01
+2 டிஒத்திசை - பணி 01       ...
 1 Timer
 2 Timer
 1 Pre calculates ETA
@@ -314,7 +316,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 Preview
 2 முன்னோட்டம்
 1 &File
-2 கோப்பு          _
+2 கோப்பு          ...
 1 Change Ini File...
 2 Ini கோப்பு மாற்று...
 1 Save Settings Now
@@ -324,7 +326,7 @@ This can give unattended results, do you want enable anyway Bidirectional Sync?
 1 &Exit	ALT+F4
 2 வெளியேறு          ...
 1 &Options
-2 விருப்பங்கள்    __
+2 விருப்பங்கள்        ...  
 1 Revert all options to default
 2 அனைத்து விருப்பங்களையும் இயல்புநிலைக்கு அமை                 ...
 1 Remember window size
